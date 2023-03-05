@@ -1,0 +1,26 @@
+#Menu
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: rgb(21, 147, 84);
+    color: aliceblue;
+
+    margin: auto;
+
+}
+.Block ul li a
+{
+    text-decoration: none;
+    color: aliceblue;
+
+
+}
+
+.Block ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}

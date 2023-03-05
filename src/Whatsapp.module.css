@@ -1,0 +1,32 @@
+#divBlock
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color: rgb(24, 183, 58);
+    color: aliceblue;
+    margin: auto;
+}
+
+.MenuBlock ul
+{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.MenuBlock ul li a{
+    text-decoration: none;
+    color: azure;
+    font-style: none;
+
+}
+img
+{
+    height: 70px;
+    width: 100px;
+    align-items: center;
+
+}
+
